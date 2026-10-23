@@ -1,0 +1,10 @@
+# .gitignore for Depot Manager Java Project
+bin/
+*.class
+*.jar
+out/
+*.idea/
+.idea/
+*.iml
+end_of_day_report*.txt
+event_log*.txt
