@@ -1,0 +1,17 @@
+# Customers data file
+# Format: seqNo,name,parcelId
+1,Alice Johnson,P001
+2,Bob Smith,X001
+3,Carol White,P003
+4,David Brown,P002
+5,Eve Davis,X002
+6,Frank Miller,P005
+7,Grace Wilson,P006
+8,Henry Moore,X003
+9,Isla Taylor,P007
+10,Jack Anderson,P004
+11,Karen Thomas,P008
+12,Liam Jackson,P009
+13,Maria Harris,P010
+14,Noah Martin,P011
+15,Olivia Thompson,P012
